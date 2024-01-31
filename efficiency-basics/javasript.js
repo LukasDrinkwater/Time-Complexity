@@ -23,3 +23,6 @@ function oddNumbers(maxNumber) {
     currentNumber += 1;
   }
 }
+
+
+oddNumbers()
